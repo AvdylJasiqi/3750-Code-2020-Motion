@@ -1,3 +1,4 @@
-Drive Forward,5 Ball Trench,5 Ball Enemy,Test
-DriveForward,2BallTrench,2BallEnemySteal,Forward
-,TrenchToTarget,EnemyTrenchToSoot,Backwards
+Drive Forward,5 Ball Trench,5 Ball Enemy,Test,8 Ball 5172
+DriveForward,2BallTrench,2BallEnemySteal,Forward,Wait3
+,TrenchToTarget,EnemyTrenchToSoot,Backwards,5BallTrench
+,,,,WOFToShoot
